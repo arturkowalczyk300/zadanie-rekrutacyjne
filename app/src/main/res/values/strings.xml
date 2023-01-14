@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ZadanieRekrutacyjne</string>
+    <string name="main_activity_label">Użytkownicy</string>
+    <string name="details_activity_name">Szczegóły</string>
+    <string name="user_name">Nazwa użytkownika: %1$s</string>
+    <string name="user_api_source">Źródło danych: %1$s</string>
+    <string name="api_dailymotion">Dailymotion</string>
+    <string name="api_github">Github</string>
+</resources>
